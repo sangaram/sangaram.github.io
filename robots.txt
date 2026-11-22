@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sangaram.github.io/sitemap.xml
+Sitemap: https://amadoussangare.com/sitemap.xml
