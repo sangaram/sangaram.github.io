@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate at [CEA-List](https://list.cea.fr/en/) and [Paris-Saclay university](https://www.universite-paris-saclay.fr/en). My research is focused on image and video generation. While current generative models achieve impressive results by only relying on textual descriptions, natural language provides a limited control on the composition of the scene. Hence, I'm particularly interested in developing new methods for bringing more control on the spatio-temporal aspects of the generated images and videos. Apart from that, I have a broader interest in unsupervised representation learning.
+I'm a PhD candidate at [CEA-List](https://list.cea.fr/en/) and [Paris-Saclay university](https://www.universite-paris-saclay.fr/en). My research is focused on image and video generation. While current generative models achieve impressive results by only relying on textual descriptions, natural language provides limited control over the composition of the scene. Hence, I'm particularly interested in developing new methods for bringing more control on the spatio-temporal aspects of the generated images and videos. Apart from that, I have a broader interest in unsupervised representation learning.
 
-Prior to that I did an MSc Eng in Computer Science with a major in artificial intelligence at [Télécom Paris](https://www.telecom-paris.fr/en/home), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
+Before that, I completed an MSc Eng in Computer Science with a major in artificial intelligence at [Télécom Paris](https://www.telecom-paris.fr/en/home), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
